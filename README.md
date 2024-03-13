@@ -5,7 +5,7 @@
 - The Main Character wants to get home. On the way home, he needs to face many obstacles and enemies.
 - In the Game, you will be Playing our First Level (The Desert Fever) of the Game. You will be able to collect coins on the way.
 - You will get three health to Reach Home.	
-- If you lose all your three Health, you will be shown a menu with the option to play it again go to the main menu or quit the game.
+- If you lose all your three Health, you will be shown a menu with the option to play it again, go to the main menu or quit the game.
 - After you reach the end, a menu will be shown to go to the Main menu or quit the game.
 
 ## Inputs of the game:
