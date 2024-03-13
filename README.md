@@ -1,13 +1,34 @@
 IMI RUN
-Team Project Members: Manthan, Aum, Carlos
+
 			
 STORY 
-The Main Character wants to get home. On the way home, he needs to face many obstacles and enemies.
 
-In the Game, you will be Playing our First Level (The Desert Fever) of the Game. You will be able to collect coins on the way.
 
-You will get three health to Reach Home.	
+
 Inputs Of the Game
+
+
+
+
+
+Game Screenshots: 
+ 
+Gameplay Link: 
+
+https://drive.google.com/file/d/1PlPA5lI_wmh1cvrij1_kRJ7QHLy0eUtR/view?usp=share_link
+
+
+# [IMI RUN]
+Team Project Members: Manthan, Aum, Carlos
+
+## Description:
+The Main Character wants to get home. On the way home, he needs to face many obstacles and enemies.
+In the Game, you will be Playing our First Level (The Desert Fever) of the Game. You will be able to collect coins on the way.
+You will get three health to Reach Home.	
+If you lose all your three Health, you will be shown a menu with the option to play it again go to the main menu or quit the game.
+After you reach the end, a menu will be shown to go to the Main menu or quit the game.
+
+## Inputs of the game:
 •	To move right-          D or Right Arrow Key
 •	To move left-            A or Left Arrow Key
 •	To Jump -                  W or Spacebar
@@ -16,25 +37,18 @@ Inputs Of the Game
 •	To Main Menu-           Press the main menu Button(Second button from left)
 •	To Quit the Game-     Press the home button (Third button from left)
 
+## Screenshots:
 
-If you lose all your three Health, you will be shown a menu with the option to play it again go to the main menu or quit the game.
-After you reach the end, a menu will be shown to go to the Main menu or quit the game 
+### Screenshot 1:
+![Screenshot 1](link_to_screenshot_1)
 
+### Screenshot 2:
+![Screenshot 2](link_to_screenshot_2)
 
-Game Screenshots: 
- 
+### Screenshot 3:
+![Screenshot 3](link_to_screenshot_3)
 
- 
+[Add more screenshots if necessary, following the same format]
 
- 
-
- 
-
- 
-
- 
-
-
-Gameplay Link: 
-
-https://drive.google.com/file/d/1PlPA5lI_wmh1cvrij1_kRJ7QHLy0eUtR/view?usp=share_link
+## Additional Information:
+[Include any additional information about your game here, such as system requirements, developer information, etc.]
