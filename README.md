@@ -10,13 +10,13 @@ Team Project Members: Manthan, Aum, Carlos
 -After you reach the end, a menu will be shown to go to the Main menu or quit the game.
 
 ## Inputs of the game:
-•	To move right-          D or Right Arrow Key
-•	To move left-            A or Left Arrow Key
-•	To Jump -                  W or Spacebar
-•	To Pause -                 Esc
-•	To Resume-               Press the resume Button(First button from left)
-•	To Main Menu-           Press the main menu Button(Second button from left)
-•	To Quit the Game-     Press the home button (Third button from left)
+•	To move right- D or Right Arrow Key
+•	To move left- A or Left Arrow Key
+•	To Jump - W or Spacebar
+•	To Pause - Esc
+•	To Resume- Press the resume Button(First button from left)
+•	To Main Menu- Press the main menu Button(Second button from left)
+•	To Quit the Game- Press the home button (Third button from left)
 
 ## Screenshots:
 
@@ -38,4 +38,4 @@ Team Project Members: Manthan, Aum, Carlos
 
 
 ## Gameplay Link:
-[[Gameplay](https://drive.google.com/file/d/1PlPA5lI_wmh1cvrij1_kRJ7QHLy0eUtR/view?usp=share_link)]
+[[Click here to watch the gameplay](https://drive.google.com/file/d/1PlPA5lI_wmh1cvrij1_kRJ7QHLy0eUtR/view?usp=share_link)]
