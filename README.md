@@ -1,6 +1,5 @@
 
 # [IMI RUN]
-Team Project
 
 ## Description:
 - The Main Character wants to get home. On the way home, he needs to face many obstacles and enemies.
@@ -9,17 +8,14 @@ Team Project
 - If you lose all your three Health, you will be shown a menu with the option to play it again go to the main menu or quit the game.
 - After you reach the end, a menu will be shown to go to the Main menu or quit the game.
 
-## My Contribution:
-- I worked on the Level Designing, Animations, and Sound System part of the game.
-
 ## Inputs of the game:
-•	To move right- D or Right Arrow Key
-•	To move left- A or Left Arrow Key
-•	To Jump - W or Spacebar
-•	To Pause - Esc
-•	To Resume- Press the resume Button(First button from left)
-•	To Main Menu- Press the main menu Button(Second button from left)
-•	To Quit the Game- Press the home button (Third button from left)
+- To move right- D or Right Arrow Key
+- To move left- A or Left Arrow Key
+- To Jump - W or Spacebar
+- To Pause - Esc
+- To Resume- Press the resume Button(First button from left)
+- To Main Menu- Press the main menu Button(Second button from left)
+- To Quit the Game- Press the home button (Third button from left)
 
 ## Screenshots:
 
