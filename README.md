@@ -4,9 +4,13 @@ Team Project Members: Manthan, Aum, Carlos
 
 ## Description:
 -The Main Character wants to get home. On the way home, he needs to face many obstacles and enemies.
+
 -In the Game, you will be Playing our First Level (The Desert Fever) of the Game. You will be able to collect coins on the way.
+
 -You will get three health to Reach Home.	
+
 -If you lose all your three Health, you will be shown a menu with the option to play it again go to the main menu or quit the game.
+
 -After you reach the end, a menu will be shown to go to the Main menu or quit the game.
 
 ## Inputs of the game:
@@ -33,8 +37,7 @@ Team Project Members: Manthan, Aum, Carlos
 ![8c2671709968c9a97240908f97a24f10](https://github.com/Manthan8567/IMI-Run/assets/124721292/18b157ef-3fad-4f3c-b658-e28d8662589f)
 
 ### Screenshot 5:
-![Screenshot 5](https://drive.google.com/file/d/10QSpnFXGRoaV6-HWiGrubzML15IhT2tG/view?usp=drive_link)
-
+![88611cd8faac64f655cd543348f82b30](https://github.com/Manthan8567/IMI-Run/assets/124721292/213b07af-a684-4b53-a17d-439dfa06d96d)
 
 
 ## Gameplay Link:
