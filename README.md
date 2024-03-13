@@ -9,8 +9,8 @@
 - After you reach the end, a menu will be shown to go to the Main menu or quit the game.
 
 ## Inputs of the game:
-- To move right- D or Right Arrow Key
-- To move left- A or Left Arrow Key
+- To Move right- D or Right Arrow Key
+- To Move left- A or Left Arrow Key
 - To Jump - W or Spacebar
 - To Pause - Esc
 - To Resume- Press the resume Button(First button from left)
