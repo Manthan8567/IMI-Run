@@ -30,7 +30,7 @@ Team Project Members: Manthan, Aum, Carlos
 ![38e64bd1906613a45e6b54c867d62a39](https://github.com/Manthan8567/IMI-Run/assets/124721292/40d382ec-6809-4ba3-b3e2-8863e8059b47)
 
 ### Screenshot 4:
-![Screenshot 4](https://drive.google.com/file/d/12TqTATIBRzaZcv3N7dGRPj1g6iNzfftC/view?usp=drive_link)
+![8c2671709968c9a97240908f97a24f10](https://github.com/Manthan8567/IMI-Run/assets/124721292/18b157ef-3fad-4f3c-b658-e28d8662589f)
 
 ### Screenshot 5:
 ![Screenshot 5](https://drive.google.com/file/d/10QSpnFXGRoaV6-HWiGrubzML15IhT2tG/view?usp=drive_link)
