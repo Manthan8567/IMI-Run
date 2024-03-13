@@ -38,4 +38,4 @@ Team Project Members: Manthan, Aum, Carlos
 
 
 ## Gameplay Link:
-[[](https://drive.google.com/file/d/1PlPA5lI_wmh1cvrij1_kRJ7QHLy0eUtR/view?usp=share_link)]
+[[Gameplay](https://drive.google.com/file/d/1PlPA5lI_wmh1cvrij1_kRJ7QHLy0eUtR/view?usp=share_link)]
