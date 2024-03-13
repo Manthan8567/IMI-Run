@@ -3,14 +3,14 @@
 Team Project
 
 ## Description:
--The Main Character wants to get home. On the way home, he needs to face many obstacles and enemies.
--In the Game, you will be Playing our First Level (The Desert Fever) of the Game. You will be able to collect coins on the way.
--You will get three health to Reach Home.	
--If you lose all your three Health, you will be shown a menu with the option to play it again go to the main menu or quit the game.
--After you reach the end, a menu will be shown to go to the Main menu or quit the game.
+- The Main Character wants to get home. On the way home, he needs to face many obstacles and enemies.
+- In the Game, you will be Playing our First Level (The Desert Fever) of the Game. You will be able to collect coins on the way.
+- You will get three health to Reach Home.	
+- If you lose all your three Health, you will be shown a menu with the option to play it again go to the main menu or quit the game.
+- After you reach the end, a menu will be shown to go to the Main menu or quit the game.
 
 ## My Contribution:
--I worked on the Level Designing, Animations, and Sound System part of the game.
+- I worked on the Level Designing, Animations, and Sound System part of the game.
 
 ## Inputs of the game:
 •	To move right- D or Right Arrow Key
@@ -39,5 +39,8 @@ Team Project
 ![88611cd8faac64f655cd543348f82b30](https://github.com/Manthan8567/IMI-Run/assets/124721292/213b07af-a684-4b53-a17d-439dfa06d96d)
 
 
-## Gameplay Link:
-[[Click here to watch the gameplay](https://drive.google.com/file/d/1PlPA5lI_wmh1cvrij1_kRJ7QHLy0eUtR/view?usp=share_link)]
+## Gameplay:
+
+https://github.com/Manthan8567/IMI-Run/assets/124721292/7703a34c-d2b8-43a8-b6eb-c125b21f8c3c
+
+
